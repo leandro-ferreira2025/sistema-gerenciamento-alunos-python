@@ -41,7 +41,7 @@ Durante o desenvolvimento deste projeto, pratiquei os seguintes conceitos:
 ## Como executar
 1. Tenha o Python 3 instalado em sua máquina.
 2. Baixe o arquivo `main.py`.
-3. Execute no terminal:
+3. Execute o terminal:
 
 ```bash
-python main.py
+main.py
